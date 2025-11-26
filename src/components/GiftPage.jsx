@@ -78,7 +78,7 @@ export default function GiftPage() {
               <div className="absolute inset-0 w-56 h-56 bg-gradient-to-r from-yellow-400/20 to-orange-400/20 rounded-full blur-xl scale-110 group-hover:scale-120 transition-transform duration-300"></div>
 
               <motion.img
-                src="/gifs/gift.gif"
+                src="/Sorry-site/gifs/gift.gif"
                 alt="Gift box"
                 className="w-56 h-56 mx-auto relative z-10 drop-shadow-2xl"
                 animate={{
@@ -145,7 +145,7 @@ export default function GiftPage() {
                 <div className="absolute w-64 h-64 mx-auto inset-0 bg-gradient-to-r from-pink-400/30 to-purple-400/30 rounded-full blur-2xl scale-110"></div>
 
                 <img
-                  src="/gifs/teddy-giving-flower.gif"
+                  src="/Sorry-site/gifs/teddy-giving-flower.gif"
                   alt="Teddy giving flower"
                   className="w-52 mx-auto relative z-10 drop-shadow-2xl"
                 />

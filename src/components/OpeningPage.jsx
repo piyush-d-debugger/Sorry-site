@@ -52,7 +52,7 @@ export default function OpeningPage({ setCurrentPage, setMusicPlaying, setShowMu
         {/* Cute glow effect around teddy */}
         <div className="absolute inset-0 bg-gradient-to-r from-pink-400/20 to-purple-400/20 rounded-full blur-xl scale-110"></div>
         <img
-          src="/gifs/teddy-walking.gif"
+          src="/Sorry-site/gifs/teddy-walking.gif"
           className="w-64 h-64 mx-auto rounded-2xl relative z-10"
         />
 
@@ -92,7 +92,7 @@ export default function OpeningPage({ setCurrentPage, setMusicPlaying, setShowMu
           transition={{ duration: 0.8, delay: 1.6 }}
           className="text-purple-200 text-xl leading-relaxed"
         >
-          Ho jati hai faltu ki baatien aur thoda bohot gussa , I know its not easy for you to forgive me but please forgive me… 
+          Ho jati hai faltu ki baatien aur thoda bohot gussa , I know its not easy for you to forgive me but please forgive me…
         </motion.p>
       </motion.div>
 
