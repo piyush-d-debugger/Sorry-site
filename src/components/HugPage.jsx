@@ -63,7 +63,7 @@ export default function HugPage({ setCurrentPage }) {
         {/* Cute aura around teddy */}
         <div className="absolute inset-0 bg-gradient-to-r from-pink-400/25 to-red-400/25 rounded-full blur-2xl scale-110"></div>
         <img
-          src="/Sorry-site/gifs/teddy-hug.gif"
+          src="/gifs/teddy-hug.gif"
           alt="Teddy with open arms"
           className=" mx-auto rounded-2xl relative z-10"
         />

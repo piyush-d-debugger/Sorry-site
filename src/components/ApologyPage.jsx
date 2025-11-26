@@ -28,7 +28,7 @@ export default function ApologyPage({ setCurrentPage }) {
         className="mb-8"
       >
         <img
-          src="/Sorry-site/gifs/notice-me.gif"
+          src="/gifs/notice-me.gif"
           alt="Teddy trying to convincing"
           className="w-56 mx-auto rounded-lg"
         />

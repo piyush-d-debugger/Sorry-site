@@ -41,7 +41,7 @@ export default function DiaryPage({ setCurrentPage }) {
             className="mb-6"
           >
             <img
-              src="/Sorry-site/gifs/sad-teddy.gif"
+              src="/gifs/sad-teddy.gif"
               alt="Sad teddy"
               className="w-32 h-32 mx-auto rounded-lg"
             />
